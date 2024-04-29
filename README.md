@@ -1,6 +1,6 @@
 # Compressão de Imagem: Lossy vs. Lossless
 
-Este repositório explora as técnicas de compressão de imagem lossy e lossless e suas aplicações na redução do tamanho de arquivos de imagem.
+Este repositório, criado para um trabalho acadêmico na matéria de Sistemas de Arquivos do 7º semestre do curso de Ciência da Computação (7NMA), explora as técnicas de compressão de imagem, tanto do tipo lossy quanto do tipo lossless. Ele destaca as aplicações dessas técnicas para reduzir o tamanho de arquivos de imagem, otimizando o armazenamento e a transferência de dados. A partir de exemplos práticos, o repositório demonstra como essas técnicas podem ser usadas para economizar espaço sem comprometer significativamente a qualidade visual.
 
 ## Compressão Lossy
 
